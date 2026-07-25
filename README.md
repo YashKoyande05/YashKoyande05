@@ -52,10 +52,22 @@ I love working on practical projects that combine hardware, AI, and real-world p
 
 ---
 
+### 📈 Contribution Graph
+
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKoyande05&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/YashKoyande05)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/YashKoyande05/YashKoyande05/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-koyande-17b916369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yashk05-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yashkoyande.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkoyande.2202@gmail.com)
 
 ---
