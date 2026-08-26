@@ -31,7 +31,6 @@ I love working on practical projects that combine hardware, AI, and real-world p
 | **[Eye-Tracking-Mouse](https://github.com/YashKoyande05/Eye-Tracking-Mouse)** | Hands-free mouse controller using real-time eye tracking, blink detection for clicks, and gesture-based scrolling | Python, OpenCV, MediaPipe |
 | **[PPE-detection-kit](https://github.com/YashKoyande05/PPE-detection-kit)** | Real-time construction site safety monitor that detects PPE (hardhats, vests) using YOLOv11 + Streamlit dashboard | Python, YOLOv11, Streamlit |
 | **[IoT-Biometric-Attendance-System](https://github.com/YashKoyande05/IoT-Biometric-Attendance-System)** | ESP32 + fingerprint sensor system that logs attendance directly to Google Sheets with Entry/Exit tracking | C++, ESP32, Google Apps Script |
-| **[Creative-Portfolio](https://github.com/YashKoyande05/Creative-Porfolio)** | Personal portfolio website showcasing design & creative work | HTML |
 
 ---
 
